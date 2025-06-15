@@ -31,7 +31,6 @@ const CategoriaModal = ({ editingCategory, onClose, onSave }) => {
 
     return (
         <div className={styles.modalOverlay}>
-            {/* El modal CategoryModal usará la clase .modal de AdminDashboard.module.css */}
             <div className={styles.modal}>
                 <button className={styles.closeModalButton} onClick={onClose}>
                     <FaTimes />
