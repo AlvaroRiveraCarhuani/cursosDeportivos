@@ -115,7 +115,7 @@ cd frontend
 npm start
 ```
 
-La aplicación frontend estará disponible en `http://localhost:3000`.
+La aplicación frontend estará disponible en `http://localhost:5173/`.
 
 ## Solución de Problemas
 
