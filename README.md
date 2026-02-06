@@ -1,5 +1,7 @@
 # 🚀 Cursos Deportivos: Full-Stack Platform
 
+![CI Status](https://github.com/AlvaroRiveraCarhuani/cursosdeportivos/actions/workflows/ci.yml/badge.svg)
+
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
