@@ -1,0 +1,9 @@
+# Node ignore
+node_modules/
+npm-debug.log
+build/
+dist/
+.env
+.vscode/
+.git
+.gitignore

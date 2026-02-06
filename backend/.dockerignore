@@ -1,0 +1,10 @@
+# Python ignore
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.pytest_cache/
+.vscode/
+.git
+.gitignore
